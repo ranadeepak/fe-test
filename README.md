@@ -4,14 +4,14 @@ Build a simple and small application.
 
 <p>As for any app the user should be able to log in and out. User should be able to login with the following credentials should work: userName: admin, password: changeMe.<br/><br/>
 After login user should see a grid/table in the middle of the page. This grid should display the data from the <b>Sample Data</b> listed below.
-A simple grid in the middle of a page is a bit dull: build a story around it, decorate, add other UI components.<br/>
-Use of javaScript frameworks or toolkits is permitted. The whole UI should be responsive.</p><br/>
+A simple grid in the middle of a page is a bit dull: build a story around it, decorate, add other UI components.
+Use of javaScript libraries or framworks is permitted. The whole UI should be responsive.</p><br/>
 
 
 ## Requirements:
 **(implement as many as possible)**<br/>
 	+ We should be able to run the app locally using npm. <br/>
-	+ The grid has to be entirely made of DIV elements. Don't use the <table> element. <br/>
+	+ The grid has to be entirely made of DIV elements. Don't use the \<table> element. <br/>
 	+ The grid rows are generated from JSON sample data, or some online datasource. <br/>
 	+ The grid should be responsive. <br/>
 	+ Data rows must scroll vertically and horizontally. <br/>
@@ -23,7 +23,7 @@ Use of javaScript frameworks or toolkits is permitted. The whole UI should be re
 	+ Different data types are displayed differently within the grid cells (e.g. text vs decimal values vs dates). <br/>
 	+ Make the application accessible. <br/>
 	+ The user should be able to change the browser's zoom factor. <br/>
-	+ Adding unit test or end to end tests is a big plus. <br/>
+	+ Adding unit test or end to end tests is a plus. <br/>
 <br/>
 
 ## Sample Data:
